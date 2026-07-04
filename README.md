@@ -1,12 +1,60 @@
-<h1 align="center">Salam 👋, Men Vusal</h1>
-<h3 align="center">cybersecurity enthusiast from Azerbaijan</h3>
+<h1 align="center">Hi 👋, I'm Vuba</h1>
+<h3 align="center">Aspiring Cybersecurity Engineer from Azerbaijan 🇦🇿</h3>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛡️ About Me
+
+- 🎓 Bachelor's degree in Information Technology
+- 🔐 Focused on Cybersecurity
+- 🐧 Learning Linux, Networking, Python and OSINT
+- 💻 Building hands-on security labs and automation projects
+- 🌱 Currently improving my Blue Team and Network Security skills
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vusal-balakishiyev/)
+
+---
+
+## 🧰 Technologies & Tools
+
 <p align="left">
-<a href="[https://linkedin.com/in/vusal balakishiyev]" target="[blank](https://www.linkedin.com/in/vusal-balakishiyev-37bbb3337/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vusal balakishiyev" height="30" width="40" /></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vubacto&show_icons=true&locale=en&layout=compact" alt="vubacto" /></p>
+## 🎯 Current Goals
+
+- Learn Linux Administration
+- Master Computer Networking
+- Improve Python for Security Automation
+- Build Home Lab
+- Practice on TryHackMe
+- Learn Active Directory
+- Build Security Projects
+
+---
+
+## 📂 Featured Projects
+
+- Linux Labs
+- Networking Labs
+- Python Security Scripts
+- OSINT Notes
+- CTF Writeups
+- Security Automation
+
+---
